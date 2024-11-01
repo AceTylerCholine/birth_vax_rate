@@ -1,0 +1,18 @@
+Vaccination Rates from:
+Official data collated by Our World in Data (2024); World Health Organisation (2024); Population based on various sources
+(2024)
+
+https://ourworldindata.org/explorers/covid?time=earliest..2023-12-29&country=ITA~NLD~POL~PRT~ROU~TUR~USA~KAZ&pickerSort=asc&Metric=People+vaccinated&Interval=Cumulative&Relative+to+population=true
+
+Downloaded data file on 2024.11.01 and looked at the most recent population vaccinated rate for each country
+
+
+Birth Rates from:
+https://www.macrotrends.net/global-metrics/countries/PRT/portugal/birth-rate
+https://www.macrotrends.net/global-metrics/countries/ITA/italy/birth-rate
+https://www.macrotrends.net/global-metrics/countries/USA/united-states/birth-rate
+https://www.macrotrends.net/global-metrics/countries/NLD/netherlands/birth-rate
+https://www.macrotrends.net/global-metrics/countries/TUR/turkey/birth-rate
+https://www.macrotrends.net/global-metrics/countries/POL/poland/birth-rate
+https://www.macrotrends.net/global-metrics/countries/KAZ/kazakhstan/birth-rate
+https://www.macrotrends.net/global-metrics/countries/ROU/romania/birth-rate
